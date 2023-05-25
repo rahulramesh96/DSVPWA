@@ -1,4 +1,4 @@
-FROM python:3.11.2-slim-bullseye
+FROM python:slim
 
 ARG BUILD_VER
 ARG BUILD_REV
